@@ -1,3 +1,10 @@
 # READ ME
 
+
+AALTO UNIVERSITY
+
+CS-E4850 COMPUTER VISION 2023-24
+
+Assignments - uploaded.
+
  .....
